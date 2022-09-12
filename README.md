@@ -7,7 +7,7 @@
 Nykaa is an e-commerce website which sells beauty,wellness and fashion products.
 here consumers have access to a finely curated, authentic assortment of products
 and services that delight and elevate the human spirit.
-
+[Live view](https://mellow-tanuki-fb3e28.netlify.app/)
 
 ## Tech Stack
 
